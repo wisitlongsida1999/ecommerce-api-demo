@@ -12,7 +12,7 @@ A RESTful API for managing products in an e-commerce platform.
    ```bash
    # Clone the repository
    git clone <repository-url>
-   cd jenosize-ecommerce-api
+   cd ecommerce-api-demo
 
    # Install dependencies
    npm install
