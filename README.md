@@ -1,4 +1,4 @@
-# Jenosize E-commerce API
+# E-commerce API Demo
 
 A RESTful API for managing products in an e-commerce platform.
 
